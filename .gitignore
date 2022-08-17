@@ -1,4 +1,4 @@
 #ignore node
-node_modules/
+node_modules
 
 bild/
